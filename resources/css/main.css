@@ -11,8 +11,36 @@ header .header {
   width: 100%;
 }
 
-.main-content p {
+.section-one p, .section-three p {
   color: Aquamarine;
   font-size: 16px;
   text-decoration: underline;
+}
+
+h2 {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.section-two p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+footer p {
+  text-align: right;
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+footer i {
+  color: gray;
+  position: relative;
+  right: 5px;
+
+
 }
